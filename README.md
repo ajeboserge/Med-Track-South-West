@@ -94,6 +94,6 @@ This project supports pharmaceutical supply chain resilience in Cameroon's healt
 
 ---
 
-**Author:** GitHub Copilot  
+**Author:** Sumbele Serge  
 **Date:** January 2026  
 **License:** MIT
